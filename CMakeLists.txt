@@ -12,6 +12,7 @@ find_package(Qt5Widgets CONFIG REQUIRED)
 set(qconvert_SRC
   src/main.cpp
   src/qconvert.cpp
+  src/About/about.cpp
 )
 
 # Create code from a list of Qt designer ui files.
